@@ -1,0 +1,13 @@
+* {
+  margin: 0;
+}
+
+.buttonSmall {
+  background-color: #e50914;
+  border-radius: 3px;
+  border: 0;
+  color: white;
+  font-weight: 400;
+  font-size: 16px;
+  padding: 7px 17px;
+}
